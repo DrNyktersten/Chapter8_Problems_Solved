@@ -29,7 +29,7 @@ int main()
 
 	return 0; 
 }
-
+ 
 int checkTicketNumber(const int array[], int size, int userInput)
 {
 	int index = 0,
