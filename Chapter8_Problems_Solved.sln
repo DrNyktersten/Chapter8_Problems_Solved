@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Charge_Account_Validation", "Chapter8_Problems_Solved\Chapter8_Problems_Solved.vcxproj", "{0085B04A-E29A-4622-833C-7183F1E35A75}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem2_LotteryWinners", "Problem2_LotteryWinners\Problem2_LotteryWinners.vcxproj", "{52637DB6-ABC8-45CF-BE5E-C4046F55054E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem2_LotteryWinners_Solved", "Problem2_LotteryWinners\Problem2_LotteryWinners.vcxproj", "{52637DB6-ABC8-45CF-BE5E-C4046F55054E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
